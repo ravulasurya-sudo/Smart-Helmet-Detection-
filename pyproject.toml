@@ -1,0 +1,6 @@
+[tool.pyrefly]
+search-paths = ["backend", "backend/yolov5", "backend/models", "."]
+
+[tool.pyright]
+extraPaths = ["backend", "backend/yolov5", "backend/models", "."]
+

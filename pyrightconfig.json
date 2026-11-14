@@ -1,0 +1,8 @@
+{
+  "extraPaths": [
+    "backend",
+    "backend/yolov5",
+    "backend/models"
+  ]
+}
+
